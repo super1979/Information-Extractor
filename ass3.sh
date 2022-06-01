@@ -1,5 +1,3 @@
-# Name: Tay How Yang Gilbert
-# Student ID: 10512374
 #!/bin/bash
 
 # function to prepare variables that are used later in the code
